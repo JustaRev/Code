@@ -1,0 +1,112 @@
+<div class="container">
+  <div class="row">
+    
+    <!--RIGHT COLUMN-->
+    <div class="col-lg-12 px-2 pb-2 pt-0">
+      
+      <!--NAME-->
+      <div class="card bg-faded border-0 rounded px-3 py-2">
+        <h1 class="display-3 text-uppercase mb-0" style="color: #78FF8D;">Type - 000</h1>
+            <! Change Color ^ in Above Line depending on Class:
+                                  MYO: #78FF8D
+                                  Adopt: #fcb96d
+                                  Custom: #f0597f
+                                  NPC: #de59f0>
+      </div> <!--name end-->
+      
+      <!--META INFO-->
+      <div class="card bg-faded border-0 rounded p-1 mt-2">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-lg-6 p-1">
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">Owner</span>
+                        <a href="/" class="text-success">
+                          Name
+                        </a>
+                </li>
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">Original Designer</span>
+                        <a href="/" class="text-success">
+                          Name
+                        </a>
+                </li>
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">Linked Profile</span>
+                        <a href="/" class="text-success">
+                          [Link]
+                        </a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-lg-6 p-1">
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">Obtained Via</span>
+                        <a class="text-success">
+                             Type
+                        </a>
+                </li>
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">Trade Status</span>
+                        <a class="text-success">
+                             Status
+                        </a>
+                </li>
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">Worth</span>
+                        <a class="text-success">
+                             Worth
+                        </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div> <!--meta info end-->
+
+
+      <!--traits-->
+      <div class="card bg-faded border-0 rounded p-1 mt-2">
+        <div class="card border-0 rounded p-3 text-muted mx-1">
+          <p>
+                        <div class="row px-1">
+    <!---------------UNCOMMON TRAITS--------------->
+                            <div class="col-sm-3 mb-2">
+                                <p class="text-uppercase display-5"><span style="color: #fcb96d">| Uncommon |</span></p>
+                                <ul class="mb-0">
+                                    <li>None</li>
+                                </ul>
+                                  </div>
+     <!------------------------------------------->
+ 
+     <!---------------RARE TRAITS--------------->
+                            <div class="col-sm-3 mb-2">
+                                <p class="text-uppercase display-5"><span style="color: #f0597f">| Rare |</span></p>
+                                <ul class="mb-0">
+                                    <li>None</li>
+                                </ul>
+                                  </div>
+    <!------------------------------------------>
+
+    <!---------------PECULIAR WILL GO HERE IF NEEDED--------------->
+                            <div class="col-sm-3 mb-2">
+      <!---Remove This Line of Text if Cryptie has Mythical Traits to enter
+                                <p class="text-uppercase display-5"><span style="color: #de59f0">| Mythical |</span></p>
+                                <ul class="mb-0">
+                                    <li>traits_here</li>
+                                </ul>
+      Remove this line of Text if Cryptie has Mythical Traits to enter--->
+                                  </div> 
+    <!------------------------------------------>
+        </div>
+      </div> <!--traits end-->
+
+      
+    </div> <!--right column end-->
+    
+  </div>
+  <a class="pull-right text-muted text-uppercase mr-1" style="font-weight:lighter; font-size:12px;" href="/8914636.simply-boxed">Code by AviCode</a> <a class="text-muted mr-1" style="filter:opacity(60%)">||</a>
+  <a class="pull-right text-muted text-uppercase mr-1" style="font-weight:lighter; font-size:12px;" href="/Chip2Change">Edited by Chip2Changeling</a>
+</div>
