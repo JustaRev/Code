@@ -1,0 +1,447 @@
+<a class="btn btn-secondary text-warning py-1 px-3 border-0" style="position:fixed; bottom:10px; right:10px; z-index:2;" href="#top">Back to top</a>
+
+<!--HEADER-->
+<div class="card bg-faded border-0 rounded text-center">
+  <div class="card border-0 rounded mt-3 mb-3 p-3">
+    <h1 class="text-uppercase text-success display-4 mb-2">{ Cryptie Traits }</h1>
+    <div class="card w-75 mx-auto mb-2"></div>
+    <p class="text-muted">For ease of Reading, as a gift to you Otaku uwu - Chip</p>
+  </div>
+</div> 
+<!--TRAITS-->
+<div class="card bg-faded border-0 rounded mt-3">
+<!--PILLS-->
+<div class="nav nav-pills mt-2 text-uppercase">
+       
+    <div class="mb-2 mt-2 col-12">
+        <ul class="nav nav-fill flex-wrap text-uppercase" style="background-color: rgba(0, 0, 0, .5); border-radius: 10px; ">
+            <li class="nav-item rounded m-1 btn-secondary" style="border-style: solid; border-width: 0px; font-size: 12px; mix-blend-mode: screen; color: #8cffa9;">
+                <a data-toggle="tab" href="#blood" class="nav-link btn btn-secondary btn-block text-warning border-0" style="color: #8cffa9">
+                   · Blood · 
+                </a>
+            </li>
+            <li class="nav-item rounded m-1 btn-secondary" style="border-style: solid; border-width: 0px; font-size: 12px; mix-blend-mode: screen; color: #8cffa9;">
+                <a data-toggle="tab" href="#head" class="nav-link btn btn-secondary btn-block text-warning border-0" style="color: #8cffa9">
+                   · Head · 
+                </a>
+            </li>
+            <li class="nav-item rounded m-1 btn-secondary" style="border-style: solid; border-width: 0px; font-size: 12px; mix-blend-mode: screen; color: #8cffa9;">
+                <a data-toggle="tab" href="#body" class="nav-link btn btn-secondary btn-block text-warning border-0" style="color: #8cffa9">
+                   · Body · 
+                </a>
+            </li>
+            <li class="nav-item rounded m-1 btn-secondary" style="border-style: solid; border-width: 0px; font-size: 12px; mix-blend-mode: screen; color: #8cffa9;">
+                <a data-toggle="tab" href="#fur" class="nav-link btn btn-secondary btn-block text-warning border-0" style="color: #8cffa9">
+                   · Fur/Pelt · 
+                </a>
+            </li>
+			
+			<!--- add more links above this line -->
+        </ul>
+    </div>
+</div>
+  <div class="rounded border-0 py-3">
+    <div class="tab-content">
+        
+      <!--Blood TRAITS-->
+      <div class="tab-pane fade active show" id="blood">
+
+<div class="container-fluid row no-gutters">
+  <div class="col-md-3 row no-gutters">
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <h3 class="text-uppercase text-success mx-4 mb-2">Required</h3>
+        <p class="text-muted mb-2">▫ Horns & Tail Vents</p>
+        <p class="text-muted pr-4 mb-1" style="font-size:13px;">[ Two Head Vents and one Tail-Tip vent that allow for the manifestation of horns and the tail charm ]</p>
+        <p class="text-muted mt-2 mb-2">▫ Uniform Blood Color</p>
+        <p class="text-muted pr-4 mb-1" style="font-size:13px;">[ Eyes, Tongue, Nose, Paw Pads, Teeth, and Inner Ears all match the blood color(s) ]</p>
+      </div>
+    </div>
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <h3 class="text-uppercase text-danger mx-4 mb-2">Illegal</h3>
+        <p class="text-muted mb-2">▫ Missing Vents</p>
+        <p class="text-muted pr-5 mb-1" style="font-size:13px;">[ Head and Tail vents are always present ]</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-9 row no-gutters text-center">
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase mb-3" style="color:#78FF8D">Common Blood Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2 ">▫ Single Colored Blood ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Blood is a single, uniform color across all locations the color should be present ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Blood Constructs ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Idk what these are actually ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#fcb96d">Uncommon Blood Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Gradiented Blood ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Blood has 2-3 colors in a gradient. This affects eyes, nose, tongue, teeth and inner ears ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Glitter-Glue Blood ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Blood has sparkly specs in it that make it look like Glitter Glue ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#f0597f">Rare Blood Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Patterned Blood ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ Blood has 2-3 colors that appear in a distinct pattern. This affects eyes, nose, tongue, teeth and inner ears ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Extra Vents ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ Cryptie has extra blood vents on their body, allowing them to discharge blood from more spots on their bodies. These are usually covered by blood constructs, but can also be left open ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#de59f0">Mythical Blood Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Rainbow Blood ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ Blood has 3-5 colors. Can appear as gradiented or patterned blood ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Mis-Matched Colors ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Blood & Eyes have different colors than Nose, Tongue and Paw Pads ]</p>
+            </div>
+           </div></div>
+         </div>
+
+         </div>
+      </div>
+    </div>
+  </div>
+
+        </div>
+      
+      <!--HEAD TRAITS-->
+      <div class="tab-pane fade" id="head">
+
+<div class="container-fluid row no-gutters">
+  <div class="col-md-3 row no-gutters">
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <h3 class="text-uppercase text-success mx-4 mb-2">Required</h3>
+        <p class="text-muted mt-2 mb-2">▫ Catlike Head</p>
+        <p class="text-muted pr-4 mb-1" style="font-size:13px;">[ Crypties always have a feline-esque shape to their heads ]</p>
+        <p class="text-muted mb-2">▫ 2 Eyes</p>
+        <p class="text-muted pr-4 mb-1" style="font-size:13px;">[ By default, Crypties have 2 eyes aligned the same as any mammal ]</p>
+        <p class="text-muted mt-2 mb-2">▫ 2 Pointed Ears</p>
+        <p class="text-muted pr-4 mb-1" style="font-size:13px;">[ By default, Crypties have one set of pointed ears ]</p>
+        <p class="text-muted mt-2 mb-2">▫ Sharp Teeth</p>
+        <p class="text-muted pr-4 mb-1" style="font-size:13px;">[ Pointy teeth, like a cat! ]</p>
+      </div>
+    </div>
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <h3 class="text-uppercase text-danger mx-4 mb-2">Illegal</h3>
+        <p class="text-muted mb-2">▫ Humanoid Head</p>
+        <p class="text-muted pr-5 mb-1" style="font-size:13px;">[ Crypties don't have human faces! ]</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-9 row no-gutters text-center">
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase mb-3" style="color:#78FF8D">Common Head Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-12 px-2">
+              <p class="text-muted mb-2 ">▫ Hair Fluff ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ A tuft of extra fur on the head that mimics hair, can be short or long! ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#fcb96d">Uncommon Head Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Shaped/Patterned Eyes ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Pupils have a shape other than a vertical slit, and/or eyes or pupils have markings/patterns ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Segmented Heterochromia ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Eyes have a patch of color other than the Blood color ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Neck Floof ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ A mane of fur around the neck ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#d8607b">Rare Head Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Full Heterochromia ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ One of the eyes is a different color than the blood color ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Cyclops ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ Cryptie has 1 eye, either in the middle of their face or off to the side ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Spider Eyes ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ Cryptie has more than two, max 8, eyes. They can be anywhere, but two must be on the face (Unless paired with the Cyclops trait) ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#de59f0">Mythical Head Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Split Face ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ Crypti’s face is split into 2 or more parts, ala the Funtime Animatronics ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Cthulhu Tongues ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ Cryptie has 2 or more tongues ]</p>
+            </div>
+           </div></div>
+         </div>
+
+         </div>
+      </div>
+    </div>
+  </div>
+
+        </div>
+      
+      <!--BODY TRAITS-->
+      <div class="tab-pane fade" id="body">
+
+<div class="container-fluid row no-gutters">
+  <div class="col-md-3 row no-gutters">
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <h3 class="text-uppercase text-success mx-4 mb-2">Required</h3>
+        <p class="text-muted mb-2">▫ Anthro, Feline-esque Build</p>
+        <p class="text-muted pr-4 mb-1" style="font-size:13px;">[ Crypties stand on their back two legs, but still have long, feline-like bodies! ]</p>
+        <p class="text-muted mb-2">▫ Big hands, small feet</p>
+        <p class="text-muted pr-4 mb-1" style="font-size:13px;">[ Crypties have large hand-paws, and small, almost peg-like feet! ]</p>
+      </div>
+    </div>
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <h3 class="text-uppercase text-danger mx-4 mb-2">Illegal</h3>
+        <p class="text-muted mb-2">▫ idk lol</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-9 row no-gutters text-center">
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase mb-3" style="color:#78FF8D">Common Body Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2 ">▫ Claws ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Sharp claws on each paw-like finger ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2 ">▫ Paw Pads ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Toe beans ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Chunky Tail ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Sturdy, thick tail, good for balance! ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Scars/Injuries ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Injuries can happen to anyone! ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Missing Limbs [Injury] ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Injuries can happen to anyone! Can include Prosthetics. ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#fcb96d">Uncommon Body Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2 ">▫ No Claws ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Extra soft hands ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Skinny Tail ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ A sleek, thin tail. How do they stay upright? ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Dragon Tail ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Cryptie has small horns on their tail resembling spines or tail spikes ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ 1-2 Missing Limbs [Birth Defect] ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Cryptie was born with one or two missing limbs. ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Flightless Wings ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ little wings that don't do much ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#d8607b">Rare Body Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2 ">▫ No Paw Pads ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Plain paws ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Shaped/Patterned Paw Pads ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Paw Pads are irregularly shaped, and/or have markings ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ 3+ Missing Limbs [Birth Defect] ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Cryptie was born with three or more missing limbs. ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Extra Limbs [Up to 2] ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Can be extra arms, tails, wings etc. Extra wings only use one wing trait. All tails must have the same tail charm ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Flight-Capable Wings ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Big wings perfect for flying! ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#de59f0">Mythical Body Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Centaur Build ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ Instead of being anthro, the Cryptie's lower body is instead feral. This does not require an extra limb trait. Lower body still adheres to Cryptie traits ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Twins ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ 2 Crypties from 2 spirits in 1 Blossom. Both Crypties share 1 ML Slot and cannot be separated ]</p>
+            </div>
+           </div></div>
+         </div>
+         </div>
+      </div>
+    </div>
+  </div>
+
+        </div>
+
+      <!--FUR TRAITS-->
+      <div class="tab-pane fade" id="fur">
+ 
+<div class="container-fluid row no-gutters">
+  <div class="col-md-3 row no-gutters">
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <h3 class="text-uppercase text-success mx-4 mb-2">Required</h3>
+        <p class="text-muted mb-2">▫ Any base color</p>
+        <p class="text-muted pr-4 mb-1" style="font-size:13px;">[ Virtually any color you can think of! ]</p>
+      </div>
+    </div>
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <h3 class="text-uppercase text-danger mx-4 mb-2">Illegal</h3>
+        <p class="text-muted mb-2">▫ White Base Color</p>
+        <p class="text-muted pr-5 mb-3" style="font-size:13px;">[ No pure/near white fur here folks ]</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-9 row no-gutters text-center">
+    <div class="col-12 p-1">
+      <div class="card rounded border-0 p-3 h-100">
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase mb-3" style="color:#78FF8D">Common Fur/Pelt Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-3 px-2">
+              <p class="text-muted mb-2 ">▫ Short Fur ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Short, fluffy fur! ]</p>
+            </div>
+            <div class="col-md-3 px-2">
+              <p class="text-muted mb-2">▫ Sphynx Fur ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Hairless, or very sparse, patchy hair ]</p>
+            </div>
+            <div class="col-md-3 px-2">
+              <p class="text-muted mb-2">▫ Puffball Fur ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Excessively poofy or fluffy fur on the body. Tends to make the Cryptie look like a Pomeranian ]</p>
+            </div>
+            <div class="col-md-3 px-2">
+              <p class="text-muted mb-2">▫ Royal Fur ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Long, flowing fur that sometimes drags on the floor ]</p>
+            </div>
+            <div class="col-md-3 px-2">
+              <p class="text-muted mb-2">▫ One marking type ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Unlike the base pelt, the marking can be white in color! ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#fcb96d">Uncommon Fur/Pelt Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Metallic Markings ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Markings with a Metallic sheen ]</p>
+            </div>
+            <div class="col-md-6 px-2">
+              <p class="text-muted mb-2">▫ Opalescent Markings ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Markings that shift colors in different lighting ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#d8607b">Rare Fur/Pelt Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Albinism ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Cryptie has no pigment in their skin, causing their fur/skin to be white and their eyes to be a pale shade of their blood color. Commonly have paler blood colors. Cannot have markings ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2 ">▫ 2-3 Marking Types ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Multiple flavors of markings! ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Multicolored Markings ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Markings have several different colors. Standard markings can have different, similar colors ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Quilted Markings ▫</p>
+              <p class="text-muted  mb-1" style="font-size:13px;">[ Cryptie has two separate marking and pelt in splotches along their body ]</p>
+            </div>
+           </div></div>
+         </div>
+
+        <div class="row no-gutters"><div class="col-12"><h3 class="text-uppercase my-3" style="color:#de59f0">Myhtical Fur/Pelt Traits</h3>
+          <div class="row no-gutters">
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Transparent Skin ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ Skin is somewhat see-through, or completely translucent, allowing sight of the Cryptie's internals. All guts and organs are the same color as their blood. ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Material Skin ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ Skin is made of a non-natural material, such as fabric or stone. This can effect the Cryptie's mobility or durability. Innards are all unaffected ]</p>
+            </div>
+            <div class="col-md-4 px-2">
+              <p class="text-muted mb-2">▫ Sparkle Fur  ▫</p>
+              <p class="text-muted mb-1" style="font-size:13px;">[ Fur sheds glittery particles ]</p>
+            </div>
+           </div></div>
+         </div>
+         </div>
+      </div>
+    </div>
+  </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+<a class="pull-right text-muted text-uppercase mr-1" style="font-weight:lighter; font-size:12px;" href="https://toyhou.se/6799974.species-v2">Code by AviCode</a>
