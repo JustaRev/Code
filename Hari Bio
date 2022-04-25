@@ -509,6 +509,55 @@ background-size: cover; background-position: center; border-radius: 8px;"></div>
 </div>
 </div>
 
+<!-- INFO ============================-->
+
+<div class="row flex-lg-row-reverse my-4">
+<div class="col-lg-auto text-center">
+    
+    <img src="IMAGE URL" class="mb-4" style="max-width: 300px; border-radius: 15px">
+    <!-- pagedoll - looks best transparent -->
+
+</div>
+<div class="col-lg flex-column">
+<div class="card d-block d-lg-flex mb-4 p-3 border-0" style="flex: 1 1 300px; border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,.4);">
+<div class="row no-gutters align-items-center mb-2">
+<div class="col-auto">
+<p class="mt-n2" style="font-size: 28px; letter-spacing: 1px; font-variant: small-caps; color: #4C968A;">
+  
+    Info
+      
+</p>
+</div>
+<div class="col">
+<hr class="my-0 mx-3">
+</div>
+<div class="col-auto">
+    
+    <i class="fas fa-flower-tulip" style="font-size: 24px; color: #4C968A;"></i>
+    <!-- symbol - replace "fa-flower-tulip" w/ any "fa-" from fontawesome.com -->
+
+</div>
+</div>
+<div class="text-light pr-3" style="flex: 1 1 0; overflow-y: auto; scrollbar-width: thin">
+  
+    <p class="pl-3 mb-2">
+      First paragraph; you want more paragraphs, copy+paste BOTH paragraphs and their code, paste below the second paragraph but before the < /div >. This botch will max the height of the image to its left, and if it goes over, it will scroll!
+    </p>
+
+    <p class="pl-4 mb-2">
+      Second paragraph. If you want line breaks like in the History Section below the Design Segment, just copy+paste the divider DIVs into this box as they are below!
+    </p>
+
+    
+</div>
+<p class="mt-3 text-monospace text-right" style="color: #4C968A;"><i>
+    
+    "Quote."
+
+</i></p>
+</div>
+</div>
+</div>
 
 <!-- PERSONALITY & TRIVIA ========================-->
 
@@ -644,56 +693,6 @@ background-size: cover; background-position: center; border-radius: 8px;"></div>
 </div>
 </div>
   
-
-<!-- INFO ============================-->
-
-<div class="row flex-lg-row-reverse my-4">
-<div class="col-lg-auto text-center">
-    
-    <img src="IMAGE URL" class="mb-4" style="max-width: 300px; border-radius: 15px">
-    <!-- pagedoll - looks best transparent -->
-
-</div>
-<div class="col-lg flex-column">
-<div class="card d-block d-lg-flex mb-4 p-3 border-0" style="flex: 1 1 300px; border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,.4);">
-<div class="row no-gutters align-items-center mb-2">
-<div class="col-auto">
-<p class="mt-n2" style="font-size: 28px; letter-spacing: 1px; font-variant: small-caps; color: #4C968A;">
-  
-    Info
-      
-</p>
-</div>
-<div class="col">
-<hr class="my-0 mx-3">
-</div>
-<div class="col-auto">
-    
-    <i class="fas fa-flower-tulip" style="font-size: 24px; color: #4C968A;"></i>
-    <!-- symbol - replace "fa-flower-tulip" w/ any "fa-" from fontawesome.com -->
-
-</div>
-</div>
-<div class="text-light pr-3" style="flex: 1 1 0; overflow-y: auto; scrollbar-width: thin">
-  
-    <p class="pl-3 mb-2">
-      First paragraph; you want more paragraphs, copy+paste BOTH paragraphs and their code, paste below the second paragraph but before the < /div >. This botch will max the height of the image to its left, and if it goes over, it will scroll!
-    </p>
-
-    <p class="pl-4 mb-2">
-      Second paragraph. If you want line breaks like in the History Section below the Design Segment, just copy+paste the divider DIVs into this box as they are below!
-    </p>
-
-    
-</div>
-<p class="mt-3 text-monospace text-right" style="color: #4C968A;"><i>
-    
-    "Quote."
-
-</i></p>
-</div>
-</div>
-</div>
 
 <!-- DESIGN =============================-->
 
