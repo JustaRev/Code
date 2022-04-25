@@ -643,6 +643,38 @@ background-size: cover; background-position: center; border-radius: 8px;"></div>
 </div>
     
         <div class="row no-gutters align-items-center mt-2">
+            <div class="col-auto">
+                <i class="fas fa-mug-tea-saucer" style="font-size: 24px; color: #4C968A;"></i>
+            </div>
+            <div class="col">
+                <hr class="my-0 mx-2">
+            </div>
+        </div>
+
+<p class="text-monospace mb-0" style="font-size: 20px; letter-spacing: 1px; font-variant: small-caps; color: #4C968A;">
+  
+    Personality
+    
+</p>
+
+    <p class="pl-3 mb-2">
+      Personality Paragraph one.
+    </p>
+
+    <p class="pl-4 mb-2">
+      Personality Paragraph two.
+    </p>
+
+        <div class="row no-gutters align-items-center mt-2">
+            <div class="col">
+                <hr class="my-0 mx-2">
+            </div>
+            <div class="col-auto">
+                <i class="fas fa-skull-cow" style="font-size: 24px; color: #4C968A;"></i>
+            </div>
+        </div>
+
+        <div class="row no-gutters align-items-center mt-2">
             <div class="col">
                 <hr class="my-0 mx-2">
             </div>
