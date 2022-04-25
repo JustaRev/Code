@@ -735,22 +735,22 @@ width: 40px; height: 40px; border-radius: 50%;"></div>
         I reccomend only using Ribbons on the Base with a White Border, as ones that don't match look a lil odd!-->
     <div class="row my-2 px-3">
         
-        <span data-toggle="tooltip" data-placement="top" title="Overgrown NPC Haricotian">
+        <span data-toggle="tooltip" data-placement="top" title="Ribbon Name">
                 <img src="IMAGE URL" class="ml-3 mx-1">
         </span>
-        <span data-toggle="tooltip" data-placement="top" title="Overgrown NPC Haricotian">
+        <span data-toggle="tooltip" data-placement="top" title="Ribbon Name">
                 <img src="IMAGE URL" class="mx-1">
         </span>
-        <span data-toggle="tooltip" data-placement="top" title="Overgrown NPC Haricotian">
+        <span data-toggle="tooltip" data-placement="top" title="Ribbon Name">
                 <img src="IMAGE URL" class="mx-1">
         </span>
-        <span data-toggle="tooltip" data-placement="top" title="Overgrown NPC Haricotian">
+        <span data-toggle="tooltip" data-placement="top" title="Ribbon Name">
                 <img src="IMAGE URL" class="mx-1">
         </span>
-        <span data-toggle="tooltip" data-placement="top" title="Overgrown NPC Haricotian">
+        <span data-toggle="tooltip" data-placement="top" title="Ribbon Name">
                 <img src="IMAGE URL" class="mx-1">
         </span>
-        <span data-toggle="tooltip" data-placement="top" title="Overgrown NPC Haricotian">
+        <span data-toggle="tooltip" data-placement="top" title="Ribbon Name">
                 <img src="IMAGE URL" class="mx-1">
         </span>
         
