@@ -883,7 +883,7 @@ width: 40px; height: 40px; border-radius: 50%;"></div>
 <div class="row my-4">
 <div class="col-lg-auto text-center">
 
-    <img src="https://images.unsplash.com/photo-1535273592342-5c7cea623ebb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" class="mb-4" style="max-width: 300px; border-radius: 15px;">
+    <img src="IMAGE URL" class="mb-4" style="max-width: 300px; border-radius: 15px;">
     <!-- pagedoll - looks best transparent -->
 
 </div>
