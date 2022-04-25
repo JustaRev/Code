@@ -509,7 +509,143 @@ background-size: cover; background-position: center; border-radius: 8px;"></div>
 </div>
 </div>
 
-<!-- HISTORY ============================-->
+
+<!-- PERSONALITY & TRIVIA ========================-->
+
+<div class="row my-4">
+<div class="col-lg-auto text-center">
+
+    <img src="IMAGE URL" class="mb-4" style="max-width: 300px; border-radius: 15px;">
+    <!-- pagedoll - looks best transparent -->
+
+</div>
+<div class="col-lg flex-column">
+<div class="card d-block d-lg-flex mb-4 p-3 border-0" style="flex: 1 1 300px; border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,.4);">
+<p class="mb-2 text-monospace" style="color: #4C968A;"><i>
+    
+    "Quote." or MBTI // ALIGNMENT // ZODIAC // ELEMENT
+
+</i></p>
+<div class="text-light pr-3" style="flex: 1 1 0; overflow-y: auto; scrollbar-width: ;">
+    
+    <div class="row">
+<div class="col-md-6">
+<p class="mt-n2 text-monospace" style="font-size: 20px; letter-spacing: 1px; font-variant: small-caps; color: #4C968A;">
+  
+    Likes
+    
+</p>
+<ul class="list-unstyled mb-2" style="color: #4C968A;">
+  
+    <li>
+      <i class="fal fa-check mx-1"></i>
+      <span class="text-light">
+        content
+      </span>
+    </li>
+    
+    <li>
+      <i class="fal fa-check mx-1"></i>
+      <span class="text-light">
+        content
+      </span>
+    </li>
+    
+    <li>
+      <i class="fal fa-check mx-1"></i>
+      <span class="text-light">
+        content
+      </span>
+    </li>
+    
+</ul>
+</div>
+<div class="col-md-6">
+<p class="mt-n2 text-monospace" style="font-size: 20px; letter-spacing: 1px; font-variant: small-caps; color: #4C968A;">
+  
+    Dislikes
+    
+</p>
+<ul class="list-unstyled mb-2" style="color: #4C968A;">
+  
+    <li>
+      <i class="fal fa-times mx-1"></i>
+      <span class="text-light">
+        content
+      </span>
+    </li>
+    
+    <li>
+      <i class="fal fa-times mx-1"></i>
+      <span class="text-light">
+        content
+      </span>
+    </li>
+    
+    <li>
+      <i class="fal fa-times mx-1"></i>
+      <span class="text-light">
+        content
+      </span>
+    </li>
+    
+</ul>
+</div>
+</div>
+    
+        <div class="row no-gutters align-items-center mt-2">
+            <div class="col">
+                <hr class="my-0 mx-2">
+            </div>
+            <div class="col-auto">
+                <i class="fas fa-stars" style="font-size: 24px; color: #4C968A;"></i>
+    <!-- symbol - replace "fa-stars" w/ any "fa-" from fontawesome.com -->
+            </div>
+        </div>
+        
+<p class="mt-n2 text-monospace" style="font-size: 20px; letter-spacing: 1px; font-variant: small-caps; color: #4C968A;">
+  
+    Trivia
+    
+</p>
+<ul class="mb-0 pl-3" style="color: #4C968A;">
+  
+    <li class="mb-1">
+      <span class="text-light">
+        Extra Triva about the character here!
+      </span>
+    </li>
+    <li class="mb-1 " >
+      <span class="text-light">
+        Copy+Paste the '< li >' section to add extra bullets.
+      </span>
+    </li>
+    
+</ul>
+</div>
+<div class="row no-gutters align-items-center mt-2 mb-n1">
+<div class="col-auto">
+    
+    <i class="fas fa-books" style="font-size: 24px; color: #4C968A;"></i>
+
+</div>
+<div class="col">
+<hr class="my-0 mx-3">
+</div>
+<div class="col-auto">
+<p class="mt-n2" style="font-size: 28px; letter-spacing: 1px; font-variant: small-caps; color: #4C968A;">
+  
+    Personality & Trivia
+      
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+  
+
+<!-- INFO ============================-->
 
 <div class="row flex-lg-row-reverse my-4">
 <div class="col-lg-auto text-center">
@@ -642,7 +778,7 @@ width: 40px; height: 40px; border-radius: 50%;"></div>
 <hr class="w-100 my-1">
 <!--====================================-->
 <div class="row no-gutters align-items-center">
-<div class="col">
+<div class="col-4">
     
     RACE
 
